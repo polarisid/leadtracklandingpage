@@ -106,7 +106,7 @@ export default function Home() {
         <section className="relative pt-32 pb-20 md:pt-48 md:pb-32">
             <div className="absolute inset-0">
                 <Image
-                    src="https://placehold.co/1200x800.png"
+                    src="/hero.webp"
                     alt="Aperto de mãos em reunião de negócios com tablet exibindo o dashboard LeadTrack"
                     fill
                     className="object-cover"
